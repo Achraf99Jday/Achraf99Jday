@@ -6,6 +6,7 @@
 
 <div class="row">
   <img src="https://raw.githubusercontent.com/Achraf99Jday/github-stats/master/generated/languages.svg" />
+  <img src="https://github.com/Achraf99Jday/github-stats/blob/master/generated/overview.svg" />
 </div>
 
 Here are some ideas to get you started:
