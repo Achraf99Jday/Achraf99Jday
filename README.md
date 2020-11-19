@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-[![Achraf's github stats](https://github-readme-stats.vercel.app/api?username=Achraf99Jday)](https://github.com/Achraf99Jday/github-stats)
 
 <div class="row">
   <img src="https://raw.githubusercontent.com/Achraf99Jday/github-stats/master/generated/languages.svg" />
   <img src="https://github.com/Achraf99Jday/github-stats/blob/master/generated/overview.svg" />
 </div>
 
-Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
