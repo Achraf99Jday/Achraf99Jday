@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Achraf99Jday/Achraf99Jday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Achraf's github stats](https://github-readme-stats.vercel.app/api?username=Achraf99Jday)](https://github.com/Achraf99Jday/github-stats)
 
 <div class="row">
