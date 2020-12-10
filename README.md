@@ -22,10 +22,7 @@
   <img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>
   
   
-  
-- ⚡ Fun fact: 
-  
-  I usually only upload my projects when i finish them, it's only recently that i have started changing my ways.. Long Live The OpenSource  ! 
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
