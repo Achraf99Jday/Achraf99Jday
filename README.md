@@ -25,7 +25,7 @@
   
 - ⚡ Fun fact: 
   
-  I usually only upload my projects when i finish them, only recently have i started changing my ways.. Long Live The OpenSource  ! 
+  I usually only upload my projects when i finish them, it's only recently that i have started changing my ways.. Long Live The OpenSource  ! 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
