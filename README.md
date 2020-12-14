@@ -19,9 +19,12 @@
   
   [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
 
-  <img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>
+  [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
   
   
+- :radio: Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to:  
+
+   [<img src="assets/podcast.PNG" alt="podcast" style="width: 640px;"/>](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA)
 
 <!--
 - 🔭 I’m currently working on ...
