@@ -21,7 +21,7 @@
 
   [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
   
-  [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland then Europe, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
+  [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
   
   [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
   
