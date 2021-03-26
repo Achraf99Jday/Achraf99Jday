@@ -21,6 +21,12 @@
 
   [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
   
+  [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland then Europe, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
+  
+  [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
+  
+  [<img src="assets/lumen.png" alt="lumen" style="width: 640px;"/>](https://github.com/nodiz/Blico)
+  
   
 - :radio: Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to:  
 
