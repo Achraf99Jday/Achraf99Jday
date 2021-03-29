@@ -79,6 +79,7 @@
 | Hobby         | Description |
 | ------------- | ------------- |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
+| [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
 | [AMV Bot](https://github.com/Achraf99Jday/AMVBot)  | A Bot that generates Anime Music Videos based on an input video and music |
 | [Tinder Bot](https://github.com/Achraf99Jday/TinderBot)  | A bot that swipes either left or right on a person based on your input preferences.  |
 | [StatLog](https://github.com/Achraf99Jday/StatLog)  | A keylogger that runs statistics on your usage. |
