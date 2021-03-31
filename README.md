@@ -60,7 +60,7 @@
 | University Work  | Description |
 | ------------- | ------------- |
 | [Multi-Agent AI](https://github.com/Achraf99Jday/MultiAgentAI) | An adversary cooperative multi-agent pathfinding algorithms for 2D puzzle game solving |
-| [Recommendation Algorithm](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems  |
+| [Recommendation Algorithm](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
 | [Epidemiology Markov Chains](https://github.com/Achraf99Jday/Epidemiology-Markov-Chains)| Manipulation of Markov chains to study the propagation of an epidemic in a population.  |
 | [GoPiGo3](https://github.com/XeelS/gopigo3_gazebo-ros)  | Simulation of a GoPiGo3 using Gazebo and real-world operation using ROS  |
 | [Machile_Learning_Heart_Disease_Detection](https://github.com/Achraf99Jday/Machile_Learning_Heart_Disease_Detection)  | Study the classification methods to which statistics naturally give access. It will therefore be a question of studying probabilistic classification tools.  |
