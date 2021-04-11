@@ -35,7 +35,7 @@
    
    
  
-- Here are my projects based on their type (Teaching material, University work, Online course, Hobby, Competition).
+- Here are my projects based on their type (Teaching material, University work, Hobby, Competition).
   
 | Teaching Material | Description |
 | ------------- | ------------- |
@@ -52,10 +52,6 @@
 | [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | One of my favorite games that i made during hackathons |
 | [AI.cam](https://github.com/Achraf99Jday/AI.cam)  | A basic sign language translator made during a hackathon  |
 
-| Online Course  | Description |
-| ------------- | ------------- |
-| [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
-| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
 
 | University Work  | Description |
 | ------------- | ------------- |
@@ -79,6 +75,8 @@
 
 | Hobby         | Description |
 | ------------- | ------------- |
+| [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
+| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
 | [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
 | [AMV Bot](https://github.com/Achraf99Jday/AMVBot)  | A Bot that generates Anime Music Videos based on an input video and music |
