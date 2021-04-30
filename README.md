@@ -35,7 +35,7 @@
    
    
  
-- Here are my projects based on their type (Teaching material, University work, Hobby, Competition).
+- Here are my projects based on their type (Teaching material, University work, Hobby&Competition).
   
 | Teaching Material | Description |
 | ------------- | ------------- |
@@ -45,12 +45,19 @@
 
 
 
-| Competition  | Description |
+| Hobby&Competition  | Description |
 | ------------- | ------------- |
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
 | [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
-| [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | One of my favorite games that i made during hackathons |
+| [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | DeltaShapes is a highly addictive, fun and competitive match 3 game  |
 | [AI.cam](https://github.com/Achraf99Jday/AI.cam)  | A basic sign language translator made during a hackathon  |
+| [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
+| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
+| [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
+| [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
+| [AMV Bot](https://github.com/Achraf99Jday/AMVBot)  | A Bot that generates Anime Music Videos based on an input video and music |
+| [Tinder Bot](https://github.com/Achraf99Jday/TinderBot)  | A bot that swipes either left or right on a person based on your input preferences.  |
+| [StatLog](https://github.com/Achraf99Jday/StatLog)  | A keylogger that runs statistics on your usage. |
 
 
 | University Work  | Description |
@@ -75,15 +82,7 @@
 | [SillyRobots](https://github.com/Achraf99Jday/SillyRobots)  | A simulation of a variable based environment of polluting robots and their counterparts the cleaners.  |
 | [OthelloAI](https://github.com/Achraf99Jday/MinMaxOthello)  | An algorithm that solves the Othello game.  |
 
-| Hobby         | Description |
-| ------------- | ------------- |
-| [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
-| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
-| [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
-| [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
-| [AMV Bot](https://github.com/Achraf99Jday/AMVBot)  | A Bot that generates Anime Music Videos based on an input video and music |
-| [Tinder Bot](https://github.com/Achraf99Jday/TinderBot)  | A bot that swipes either left or right on a person based on your input preferences.  |
-| [StatLog](https://github.com/Achraf99Jday/StatLog)  | A keylogger that runs statistics on your usage. |
+
 
 
 
