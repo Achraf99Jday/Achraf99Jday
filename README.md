@@ -62,6 +62,7 @@
 
 | University Work  | Description |
 | ------------- | ------------- |
+| [Genetic and Breitenberg AI Multi-Agent](https://github.com/Achraf99Jday/PaintWars-AI-Multi-Agent-Genetic-and-Breitenberg-Algorithms) | Genetic and Breitenberg AI algorithms for a Multi-Agent PaintWars game |
 | [Multi-Agent AI](https://github.com/Achraf99Jday/MultiAgentAI) | An adversary cooperative multi-agent pathfinding algorithms for 2D platformer game solving |
 | [Machine Learning Indian Liver Patients](https://github.com/Achraf99Jday/MachineLearning-Indian-Liver-Patient) | ML algorithms applied on an indian liver patients dataset|
 | [Gale-Shapley Alrogithm Optimization](https://github.com/Achraf99Jday/GaleShapley-Optimization) | LP and optimization on the GS algo for an affectation problem |
