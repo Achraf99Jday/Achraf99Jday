@@ -41,19 +41,19 @@
 | ------------- | ------------- |
 | [RoadToAI](https://github.com/Achraf99Jday/RoadToAI-Series)  | Teaching AI from the very development and maths basics to machine learning algorithms |
 | [Statistics&Probability for Data Science](https://github.com/TeoBernier/Stats_Info)  | Notebooks to help you explore the mathematical basics of statistical learning (French)  |
-| [CTF](https://github.com/baskiotisn/CTF-SU/wiki)  | A wiki for our CTF events that we are hosting in our university, great starting point for computer security and hacking (French)  |
+| [CTF SorbonneU](https://github.com/baskiotisn/CTF-SU/wiki)  | A wiki for our CTF events that we are hosting in our university, great starting point for computer security and hacking (French)  |
 
 
 
 | Hobby&Competition  | Description |
 | ------------- | ------------- |
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
-| [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
-| [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | DeltaShapes is a highly addictive, fun and competitive match 3 game  |
-| [AI.cam](https://github.com/Achraf99Jday/AI.cam)  | A basic sign language translator made during a hackathon  |
 | [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
 | [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
+| [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
+| [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | DeltaShapes is a highly addictive, fun and competitive match 3 game  |
+| [AI.cam](https://github.com/Achraf99Jday/AI.cam)  | A basic sign language translator made during a hackathon  |
 | [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
 | [AMV Bot](https://github.com/Achraf99Jday/AMVBot)  | A Bot that generates Anime Music Videos based on an input video and music |
 | [Tinder Bot](https://github.com/Achraf99Jday/TinderBot)  | A bot that swipes either left or right on a person based on your input preferences.  |
@@ -63,10 +63,10 @@
 | University Work  | Description |
 | ------------- | ------------- |
 | [Genetic and Breitenberg AI Multi-Agent](https://github.com/Achraf99Jday/PaintWars-AI-Multi-Agent-Genetic-and-Breitenberg-Algorithms) | Genetic and Breitenberg AI algorithms for a Multi-Agent PaintWars game |
+| [Recommendation Algorithm](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
 | [Multi-Agent Reinforcement Learning](https://github.com/Achraf99Jday/MultiAgentAI) | An adversary cooperative multi-agent pathfinding algorithms for 2D platformer game solving |
 | [Machine Learning Indian Liver Patients](https://github.com/Achraf99Jday/MachineLearning-Indian-Liver-Patient) | ML algorithms applied on an indian liver patients dataset|
 | [Gale-Shapley Alrogithm Optimization](https://github.com/Achraf99Jday/GaleShapley-Optimization) | LP and optimization on the GS algo for an affectation problem |
-| [Recommendation Algorithm](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
 | [Epidemiology Markov Chains](https://github.com/Achraf99Jday/Epidemiology-Markov-Chains)| Manipulation of Markov chains to study the propagation of an epidemic in a population.  |
 | [GoPiGo3](https://github.com/XeelS/gopigo3_gazebo-ros)  | Simulation of a GoPiGo3 using Gazebo and real-world operation using ROS  |
 | [Machile_Learning_Heart_Disease_Detection](https://github.com/Achraf99Jday/Machile_Learning_Heart_Disease_Detection)  | Study the classification methods to which statistics naturally give access. It will therefore be a question of studying probabilistic classification tools.  |
