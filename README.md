@@ -63,8 +63,9 @@
 | University Work  | Description |
 | ------------- | ------------- |
 | [Genetic and Breitenberg AI Multi-Agent](https://github.com/Achraf99Jday/PaintWars-AI-Multi-Agent-Genetic-and-Breitenberg-Algorithms) | Genetic and Breitenberg AI algorithms for a Multi-Agent PaintWars game |
-| [Recommendation Algorithm](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
+| [Recommendation System](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
 | [Multi-Agent Reinforcement Learning](https://github.com/Achraf99Jday/MultiAgentAI) | An adversary cooperative multi-agent pathfinding algorithms for 2D platformer game solving |
+| [Machine Learning Google Play Store](https://github.com/Achraf99Jday/Machine-Learning-Google-Play-Store) | Supervised and unsupervised approach to analysing and predicting various data in the google play store datsets |
 | [Machine Learning Indian Liver Patients](https://github.com/Achraf99Jday/MachineLearning-Indian-Liver-Patient) | ML algorithms applied on an indian liver patients dataset|
 | [Gale-Shapley Alrogithm Optimization](https://github.com/Achraf99Jday/GaleShapley-Optimization) | LP and optimization on the GS algo for an affectation problem |
 | [Epidemiology Markov Chains](https://github.com/Achraf99Jday/Epidemiology-Markov-Chains)| Manipulation of Markov chains to study the propagation of an epidemic in a population.  |
