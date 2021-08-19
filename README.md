@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img src='assets/FB_IMG_1629029059447.jpg' alt='github' height=300>
-
 <div class="row">
+  <img src='assets/FB_IMG_1629029059447.jpg' alt='github' height=300>
   <img src="https://raw.githubusercontent.com/Achraf99Jday/github-stats/master/generated/languages.svg" />
   <img src="https://github.com/Achraf99Jday/github-stats/blob/master/generated/overview.svg" />
 </div>
