@@ -47,7 +47,7 @@
 
 | Hobby&Competition  | Description |
 | ------------- | ------------- |
-| [Eye Above](https://github.com/Achraf99Jday/ACES-NASA)  | Mapping Space Trash in Real Time [Nasa Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/mapping-space-trash-in-real-time/teams/aces-1/project) |
+| [Eye Above](https://github.com/Achraf99Jday/ACES-NASA)  | Mapping Space Trash in Real Time, Winner of [Nasa Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/mapping-space-trash-in-real-time/teams/aces-1/project) in France |
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
 | [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
 | [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
