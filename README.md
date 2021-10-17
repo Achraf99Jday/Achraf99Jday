@@ -16,9 +16,9 @@
 - :trophy: Latest achievements:
 
 
-  [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D space debris mapper and predictor of satellites trajectories to avoid accidents.
+  [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D real time space debris mapper and predictor of satellites trajectories to avoid accidents.
   
-   [<img src="assets/Eye_Above.PNG" alt="lumen" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
+   [<img src="assets/eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
   
   [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
   
