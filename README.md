@@ -13,19 +13,26 @@
     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.goodwall.io/achraf-jday) 
 
 
-- :trophy: Latest achievement:
+- :trophy: Latest achievements:
 
-  Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/)2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
+
+  [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D space debris mapper and predictor of satellites trajectories to avoid accidents.
   
-  [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
-
-  [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
+   [<img src="assets/Eye_Above.png" alt="lumen" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
   
   [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
   
   [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
   
   [<img src="assets/lumen.png" alt="lumen" style="width: 640px;"/>](https://github.com/nodiz/Blico)
+  
+  Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/)2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
+  
+  [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
+
+  [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
+  
+
   
   
 - :radio: Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to:  
