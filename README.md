@@ -19,6 +19,7 @@
   [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D real time space debris mapper and predictor of satellites trajectories to avoid accidents.
   
    [<img src="assets/eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
+   
   
   [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
   
@@ -35,11 +36,22 @@
 
   
   
-- :radio: Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to:  
+- :radio: Podcasts, Videos and Articles i appeared in :
+
+
+   [Article]((https://www.instagram.com/p/CVni3RRIlo-/) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
+   
+   [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://www.instagram.com/p/CVni3RRIlo-/)
+   
+   [Interview](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8) by Microsoft for their Student Ambassador's promotional video in Microsoft Paris HQ: 
+   
+   [<img src="assets/1630250976787.jfif" alt="Microsoft" style="width: 640px;"/>](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8)
+
+   Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to (English):  
 
    [<img src="assets/podcast.PNG" alt="podcast" style="width: 640px;"/>](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA)
    
-   
+
    
  
 - Here are my projects based on their type (Teaching material, University work, Hobby&Competition).
