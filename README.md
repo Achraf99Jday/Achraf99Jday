@@ -61,6 +61,7 @@
   
 | Teaching Material | Description |
 | ------------- | ------------- |
+| [Workshops Collection](https://github.com/Achraf99Jday/Workshops)  | A collection of some of the workshops i hosted |
 | [RoadToAI](https://github.com/Achraf99Jday/RoadToAI-Series)  | Teaching AI from the very development and maths basics to machine learning algorithms |
 | [Statistics&Probability for Data Science](https://github.com/TeoBernier/Stats_Info)  | Notebooks to help you explore the mathematical basics of statistical learning (French)  |
 | [CTF SorbonneU](https://github.com/baskiotisn/CTF-SU/wiki)  | A wiki for our CTF events that we are hosting in our university, great starting point for computer security and hacking (French)  |
