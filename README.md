@@ -51,7 +51,7 @@
 
    [<img src="assets/podcast.PNG" alt="podcast" style="width: 640px;"/>](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA)
    
-   My project [Lumen](https://github.com/nodiz/Blico) was talked about on [Radio](https://elyssafm.tn/) and on [TV](https://www.youtube.com/watch?v=9znfHD4dlOI) (Arabic): 
+   My project [Lumen](https://github.com/nodiz/Blico) was talked about on [Radio](https://elyssafm.tn/) and on [TV](https://www.youtube.com/watch?v=9znfHD4dlOI) (at 7:30 in the video) (Arabic): 
    
    [<img src="assets/radio.PNG" alt="radio" style="width: 300px;"/>](https://drive.google.com/file/d/1T2c529Q6ItbMvky5vwnpE3O_qkh6orz7/view?usp=drive_web)
    [<img src="assets/tv.PNG" alt="tv" style="width: 300px;"/>](https://www.youtube.com/watch?v=9znfHD4dlOIb)
