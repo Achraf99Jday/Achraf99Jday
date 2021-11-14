@@ -88,18 +88,24 @@
 
 | University Work  | Description |
 | ------------- | ------------- |
+Master's Degree:
+1st year:
+| [You Are The Hero](https://github.com/MinaYuni/il-projet) | An interactive book game where you decide every action and influence the story |
+Bachelor's Degree:
+3rd Year:
 | [Genetic and Breitenberg AI Multi-Agent](https://github.com/Achraf99Jday/PaintWars-AI-Multi-Agent-Genetic-and-Breitenberg-Algorithms) | Genetic and Breitenberg AI algorithms for a Multi-Agent PaintWars game |
-| [Recommendation System](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
+| [NLP + Recommendation System](https://github.com/Achraf99Jday/RecommendationAlgorithm)  | Researching and applying AI for recommendation systems, NLP on tv series subtitles  |
 | [Multi-Agent Reinforcement Learning](https://github.com/Achraf99Jday/MultiAgentAI) | An adversary cooperative multi-agent pathfinding algorithms for 2D platformer game solving |
 | [Machine Learning Google Play Store](https://github.com/Achraf99Jday/Machine-Learning-Google-Play-Store) | Supervised and unsupervised approach to analysing and predicting various data in the google play store datsets |
 | [Machine Learning Indian Liver Patients](https://github.com/Achraf99Jday/MachineLearning-Indian-Liver-Patient) | ML algorithms applied on an indian liver patients dataset|
 | [Gale-Shapley Alrogithm Optimization](https://github.com/Achraf99Jday/GaleShapley-Optimization) | LP and optimization on the GS algo for an affectation problem |
 | [Epidemiology Markov Chains](https://github.com/Achraf99Jday/Epidemiology-Markov-Chains)| Manipulation of Markov chains to study the propagation of an epidemic in a population.  |
-| [GoPiGo3](https://github.com/XeelS/gopigo3_gazebo-ros)  | Simulation of a GoPiGo3 using Gazebo and real-world operation using ROS  |
 | [Machile_Learning_Heart_Disease_Detection](https://github.com/Achraf99Jday/Machile_Learning_Heart_Disease_Detection)  | Study the classification methods to which statistics naturally give access. It will therefore be a question of studying probabilistic classification tools.  |
 | [BattleshipAI](https://github.com/Achraf99Jday/BattleshipAI)  | Study the game of naval battle from a probabilistic point of view  |
-| [SokoAI](https://github.com/Achraf99Jday/SokoAI)  | In this game you can either move the character using the keyboard arrows or choose the AI option to observe how the automated character solves the problem by itself using the Djikstra's algorithm and it's variants.  |
 | [Off-Shark](https://github.com/Achraf99Jday/Off_Shark)  | An Offline Networks Protocoles Analyser  |
+2nd year:
+| [GoPiGo3](https://github.com/XeelS/gopigo3_gazebo-ros)  | Simulation of a GoPiGo3 using Gazebo and real-world operation using ROS  |
+| [SokoAI](https://github.com/Achraf99Jday/SokoAI)  | In this game you can either move the character using the keyboard arrows or choose the AI option to observe how the automated character solves the problem by itself using the Djikstra's algorithm and it's variants.  |
 | [JavaBrowser](https://github.com/tripincloud/Java_Browser)  | Implementation of a "Google" type search engine that allows us to retrieve documents in response to a request.  |
 | [FloodIt](https://github.com/Achraf99Jday/FloodIt-Graph-Theory)  |  Graph Theory take on the FloodIt game.  |
 | [Music Library](MusicLibrary-DataStructures)  |  A music library built with advanced C data structures. |
@@ -108,6 +114,7 @@
 | [Ecosystem](https://github.com/Achraf99Jday/Ecosystem) | An irrealistic take on a natural ecosystem and its evolution. |
 | [Ocaml.io](https://github.com/Achraf99Jday/Ocaml.io)  | An Agario game built entirely on a functional programming basis.  |
 | [SillyRobots](https://github.com/Achraf99Jday/SillyRobots)  | A simulation of a variable based environment of polluting robots and their counterparts the cleaners.  |
+1st year: 
 | [OthelloAI](https://github.com/Achraf99Jday/MinMaxOthello)  | An algorithm that solves the Othello game.  |
 
 
