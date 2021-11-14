@@ -73,8 +73,9 @@
 | ------------- | ------------- |
 | [Eye Above](https://github.com/Achraf99Jday/ACES-NASA)  | Mapping Space Trash in Real Time, Winner of [Nasa Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/mapping-space-trash-in-real-time/teams/aces-1/project) in France |
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
+| [Match Game Azure Bot](https://github.com/Achraf99Jday/Match-Game-Azure-Bot)  | Bot for the match game on [aigaming.com](https://www.aigaming.com/) using the Computer Vision Azure API.  |
+| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | My notebooks from MIT's IBM Quantum Computing course |
 | [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
-| [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | Notebooks from IBM Quantum Computing course |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
 | [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
 | [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | DeltaShapes is a highly addictive, fun and competitive match 3 game  |
