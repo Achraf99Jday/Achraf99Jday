@@ -90,6 +90,7 @@
 | ------------- | ------------- |
 Master's Degree:
 1st year:
+| [Logic and Knowledge Representation](https://github.com/MinaYuni/il-projet) | Writing in Prolog of a demonstrator based on the decision procedure of the tables algorithm for the ALC description logic |
 | [You Are The Hero](https://github.com/MinaYuni/il-projet) | An interactive book game where you decide every action and influence the story |
 Bachelor's Degree:
 3rd Year:
