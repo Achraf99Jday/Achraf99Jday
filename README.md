@@ -39,7 +39,7 @@
 - :radio: Podcasts, Videos and Articles i appeared in :
 
 
-   [Article](https://www.instagram.com/p/CVni3RRIlo-/) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
+   [Article](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
    
    [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://www.instagram.com/p/CVni3RRIlo-/)
    
