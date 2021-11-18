@@ -58,7 +58,7 @@
 
    
  
-- Here are my projects based on their type (Teaching material, University work, Hobby&Competition).
+- Here are my projects based on their type (Teaching material, University, Hobby&Competition).
   
 | Teaching Material | Description |
 | ------------- | ------------- |
@@ -86,7 +86,7 @@
 | [StatLog](https://github.com/Achraf99Jday/StatLog)  | A keylogger that runs statistics on your usage. |
 
 
-| University Work  | Description |
+| University  | Description |
 | ------------- | ------------- |
 Master's Degree:
 1st year:
