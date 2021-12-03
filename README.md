@@ -41,7 +41,7 @@
 
    [Article](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
    
-   [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://www.instagram.com/p/CVni3RRIlo-/)
+   [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa)
    
    [Interview](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8) by Microsoft for their Student Ambassador's promotional video in Microsoft Paris HQ (French): 
    
