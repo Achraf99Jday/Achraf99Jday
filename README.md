@@ -1,63 +1,5 @@
 ### Hi there 👋
 
-<div class="row">
-  <img src='assets/FB_IMG_1629029059447.jpg' alt='github' height=300>
-  <img src="https://raw.githubusercontent.com/Achraf99Jday/github-stats/master/generated/languages.svg" />
-  <img src="https://github.com/Achraf99Jday/github-stats/blob/master/generated/overview.svg" />
-</div>
-
-- 📫 How to reach me: 
-
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Achraf99Jday) 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/achrafjday/) 
-    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='email' height='40'>](achraf.jday@etu.sorbonne-universite.fr) 
-
-
-- :trophy: Latest achievements:
-
-
-  [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D real time space debris mapper and predictor of satellites trajectories to avoid accidents.
-  
-   [<img src="assets/eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
-   
-  
-  [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
-  
-  [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
-  
-  [<img src="assets/lumen.png" alt="lumen" style="width: 640px;"/>](https://github.com/nodiz/Blico)
-  
-  Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/)2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
-  
-  [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
-
-  [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
-  
-
-  
-  
-- :radio: Podcasts, Videos and Articles i appeared in :
-
-
-   [Article](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
-   
-   [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa)
-   
-   [Interview](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8) by Microsoft for their Student Ambassador's promotional video in Microsoft Paris HQ (French): 
-   
-   [<img src="assets/1630250976787.jfif" alt="Microsoft" style="width: 640px;"/>](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8)
-
-   Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to (English):  
-
-   [<img src="assets/podcast.PNG" alt="podcast" style="width: 640px;"/>](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA)
-   
-   My project [Lumen](https://github.com/nodiz/Blico) was talked about on [Radio](https://elyssafm.tn/) and on [TV](https://www.youtube.com/watch?v=9znfHD4dlOI) (at 7:30 in the video) (Arabic): 
-   
-   [<img src="assets/radio.PNG" alt="radio" style="width: 300px;"/>](https://drive.google.com/file/d/1T2c529Q6ItbMvky5vwnpE3O_qkh6orz7/view?usp=drive_web)
-   [<img src="assets/tv.PNG" alt="tv" style="width: 300px;"/>](https://www.youtube.com/watch?v=9znfHD4dlOIb)
-
-   
- 
 - Here are my projects based on their type (Teaching material, University, Hobby&Competition).
   
 | Teaching Material | Description |
@@ -118,6 +60,67 @@ Bachelor's Degree:
 | [SillyRobots](https://github.com/Achraf99Jday/SillyRobots)  | A simulation of a variable based environment of polluting robots and their counterparts the cleaners.  |
 1st year: 
 | [OthelloAI](https://github.com/Achraf99Jday/MinMaxOthello)  | An algorithm that solves the Othello game.  |
+
+
+<div class="row">
+  <img src='assets/FB_IMG_1629029059447.jpg' alt='github' height=300>
+  <img src="https://raw.githubusercontent.com/Achraf99Jday/github-stats/master/generated/languages.svg" />
+  <img src="https://github.com/Achraf99Jday/github-stats/blob/master/generated/overview.svg" />
+</div>
+
+- 📫 How to reach me: 
+
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Achraf99Jday) 
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/achrafjday/) 
+    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='email' height='40'>](achraf.jday@etu.sorbonne-universite.fr) 
+
+
+- :trophy: Latest achievements:
+
+
+  [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) Winner in France. Project : Eye Above a 3D real time space debris mapper and predictor of satellites trajectories to avoid accidents.
+  
+   [<img src="assets/eye_above.PNG" alt="nasa_challenge" style="width: 640px;"/>](https://github.com/Achraf99Jday/ACES-NASA)
+   
+  
+  [ImagineCup](https://imaginecup.microsoft.com/en-us/Events) Winner in Switzerland, World Cup Semi-finalist. Project: Lumen an assistant for the visually impaired.
+  
+  [Youtube Video](https://www.youtube.com/watch?v=dF65xZh1xRg)
+  
+  [<img src="assets/lumen.png" alt="lumen" style="width: 640px;"/>](https://github.com/nodiz/Blico)
+  
+  Co-Developed [Blico](https://github.com/nodiz/Blico) for [Lauzhack](https://lauzhack.com/)2020 - Winner of the [SBB challenge](https://devpost.com/software/blinddetector)
+  
+  [YouTube video](https://www.youtube.com/watch?v=M2HeJXddtcc)
+
+  [<img src="assets/Blico-min.gif" alt="Blico-min" style="width: 640px;"/>](https://devpost.com/software/blinddetector)
+  
+
+  
+  
+- :radio: Podcasts, Videos and Articles i appeared in :
+
+
+   [Article](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
+   
+   [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa)
+   
+   [Interview](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8) by Microsoft for their Student Ambassador's promotional video in Microsoft Paris HQ (French): 
+   
+   [<img src="assets/1630250976787.jfif" alt="Microsoft" style="width: 640px;"/>](https://www.linkedin.com/in/achrafjday/detail/treasury/position:1718962834/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACHLV4wBf9UHXrghJ3Ki6TnmKVWnuVoA82Q%2C1635467282830)&section=position%3A1718962834&treasuryCount=8)
+
+   Hear me talk about AI, Cybersec and my projects in this episode of a [podcast](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA) that i was invited to (English):  
+
+   [<img src="assets/podcast.PNG" alt="podcast" style="width: 640px;"/>](https://open.spotify.com/episode/2ZMDOhMdnxBKyuFK7HjTDs?si=Deb88VpgT5iYQmHI2jonSA)
+   
+   My project [Lumen](https://github.com/nodiz/Blico) was talked about on [Radio](https://elyssafm.tn/) and on [TV](https://www.youtube.com/watch?v=9znfHD4dlOI) (at 7:30 in the video) (Arabic): 
+   
+   [<img src="assets/radio.PNG" alt="radio" style="width: 300px;"/>](https://drive.google.com/file/d/1T2c529Q6ItbMvky5vwnpE3O_qkh6orz7/view?usp=drive_web)
+   [<img src="assets/tv.PNG" alt="tv" style="width: 300px;"/>](https://www.youtube.com/watch?v=9znfHD4dlOIb)
+
+   
+ 
+
 
 
 
