@@ -20,6 +20,7 @@
 | [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
 | [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
+| Old Obsolete Projects | |
 | [DeltaShapes](https://github.com/Achraf99Jday/DeltaShapes)  | DeltaShapes is a highly addictive, fun and competitive match 3 game  |
 | [AI.cam](https://github.com/Achraf99Jday/AI.cam)  | A basic sign language translator made during a hackathon  |
 | [JuypterMerger](https://github.com/Achraf99Jday/JupyterMerger) | A program that merges multiple Jupyter Notebooks into one. |
