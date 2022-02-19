@@ -102,6 +102,10 @@ Bachelor's Degree:
 - :radio: Podcasts, Videos and Articles i appeared in :
 
 
+   [Interview](https://www.youtube.com/watch?v=TYtB38fp2AE) by Sorbonne Université about my "double life" as a student and leader of tech communities (French):
+   
+   [<img src="assets/sorbonne_interview.PNG" alt="SU interview" style="width: 640px;"/>](https://www.youtube.com/watch?v=TYtB38fp2AE)
+
    [Article](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa) by Sorbonne Université about our project in the NASA Challenge 2021 (French): 
    
    [<img src="assets/aces-nasa-team.png" alt="nasa_challenge_team" style="width: 640px;"/>](https://sciences.sorbonne-universite.fr/actualites/lassociation-etudiante-aces-remporte-le-championnat-de-france-au-hackathon-de-la-nasa)
