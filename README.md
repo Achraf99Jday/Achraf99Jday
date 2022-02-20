@@ -33,7 +33,7 @@
 | ------------- | ------------- |
 Master's Degree:
 1st year:
-| [Treasure Hunt MultiAgents](https://github.com/Achraf99Jday/Treasure-Hunt-MultiAgents) | Multi-Agent AI variant of the game <<Hunt the Wumpus>> focused on cooperative resource mining on a JADE DEDALE 2D grid map |
+| [Treasure Hunt MultiAgents](https://github.com/Achraf99Jday/Treasure-Hunt-MultiAgents) | Multi-Agent AI variant of the game "Hunt the Wumpus" focused on cooperative resource mining on a JADE DEDALE 2D grid map |
 | [Robotics & Learning](https://github.com/Achraf99Jday/Robotics-Learning) | A set of learning methods for robotics, with a particular focus on progressive optimization methods for robot behavior |
 | [Airplanes Paths AI-Driven Decision Making](https://github.com/Achraf99Jday/Airplanes-path-management) | Modeling, optimization, graphs, linear programming |
 | [Logic and Knowledge Representation](https://github.com/krisninho2000/Projet_LRC) | Writing in Prolog of a demonstrator based on the decision procedure of the tableau algorithm for the ALC description logic |
