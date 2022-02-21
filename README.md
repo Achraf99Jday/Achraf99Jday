@@ -37,6 +37,7 @@ Master's Degree:
 | [Robotics & Learning](https://github.com/Achraf99Jday/Robotics-Learning) | A set of learning methods for robotics, with a particular focus on progressive optimization methods for robot behavior |
 | [Airplanes Paths AI-Driven Decision Making](https://github.com/Achraf99Jday/Airplanes-path-management) | Modeling, optimization, graphs, linear programming |
 | [Logic and Knowledge Representation](https://github.com/krisninho2000/Projet_LRC) | Writing in Prolog of a demonstrator based on the decision procedure of the tableau algorithm for the ALC description logic |
+| [Ikeyaa Robotics](https://github.com/Achraf99Jday/ikeyaa.github.io) | Redefining the Ikea experience through Robotics (Human-Machine Interaction project) |
 | [You Are The Hero](https://github.com/MinaYuni/il-projet) | An interactive book game where you decide every action and influence the story |
 Bachelor's Degree:
 3rd Year:
