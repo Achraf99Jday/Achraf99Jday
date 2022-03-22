@@ -1,4 +1,6 @@
 ### Hi there 👋
+Watch my intro video: https://www.youtube.com/watch?v=TYtB38fp2AE
+ [<img src="assets/suinterview.png" alt="suinterview" style="width: 640px;"/>](https://www.youtube.com/watch?v=TYtB38fp2AE)
 
 - Here are my projects based on their type (Teaching material, University, Hobby&Competition).
   
