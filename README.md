@@ -19,6 +19,7 @@ Watch my intro video: https://www.youtube.com/watch?v=TYtB38fp2AE
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
 | [Match Game Azure Bot](https://github.com/Achraf99Jday/Match-Game-Azure-Bot)  | Bot for the match game on [aigaming.com](https://www.aigaming.com/) using the Computer Vision Azure API.  |
 | [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | My notebooks from MIT's IBM Quantum Computing course |
+| [SpaceX Database Website](https://github.com/Achraf99Jday/SpaceX-Rocket-Launches-DataBase/) | Experimenting with the SpaceX API using Next.JS |
 | [Space Rocks Classifier](https://github.com/Achraf99Jday/Space-Rocks-Classifier)  | A space rocks classifier built with pyTorch  |
 | [Facebook OSINT and Bot](https://github.com/Achraf99Jday/Bot-n-Osint)  | Facebook OSINT tool equipped with a react/comment/add/etc Bot.  |
 | [HXP CTF](https://github.com/Achraf99Jday/HxP-CTF-2020)  | Solutions to some HXP2020 challenges  |
