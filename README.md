@@ -17,6 +17,7 @@ Watch my intro video: https://www.youtube.com/watch?v=TYtB38fp2AE
 | ------------- | ------------- |
 | [Eye Above](https://github.com/Achraf99Jday/ACES-NASA)  | Mapping Space Trash in Real Time, Winner of [Nasa Space Apps Challenge 2021](https://2021.spaceappschallenge.org/challenges/statements/mapping-space-trash-in-real-time/teams/aces-1/project) in France |
 | [Lumen](https://github.com/nodiz/Lumen)  | AI companion for people with visual impairments for train stations and metros navigations, winner of [Lauzhack2020](https://devpost.com/software/blinddetector) and now adopted by [SBB The Swiss National Railway Company](https://www.sbb.ch/en/timetable/mobile-apps/sbb-inclusive.html) |
+| [Aerial Swarm Robotics](https://github.com/Achraf99Jday/Aerial-Swarm-Robotics) | UE4 Cesium UAV AI, simulation of an intelligent drone pathfinding and large-scale surveillance in a 3D realistic earth-like environment |
 | [Match Game Azure Bot](https://github.com/Achraf99Jday/Match-Game-Azure-Bot)  | Bot for the match game on [aigaming.com](https://www.aigaming.com/) using the Computer Vision Azure API.  |
 | [Quantum Computing](https://github.com/Achraf99Jday/Quantum-Computing)  | My notebooks from MIT's IBM Quantum Computing course |
 | [SpaceX Database Website](https://github.com/Achraf99Jday/SpaceX-Rocket-Launches-DataBase/) | Experimenting with the SpaceX API using Next.JS |
