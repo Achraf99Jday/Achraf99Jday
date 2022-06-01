@@ -36,6 +36,7 @@ Watch my intro video: https://www.youtube.com/watch?v=TYtB38fp2AE
 | ------------- | ------------- |
 Master's Degree:
 1st year:
+| [Autonomous flight](https://gitlab.com/herpsonc/autonomousflight) | Simulation (Gazebo) and management of a real-life UAV to plan itineraries using AI | 
 | [Treasure Hunt MultiAgents](https://github.com/Achraf99Jday/Treasure-Hunt-MultiAgents) | Multi-Agent AI variant of the game "Hunt the Wumpus" focused on cooperative resource mining on a JADE DEDALE 2D grid map |
 | [Robotics & Learning](https://github.com/Achraf99Jday/Robotics-Learning) | A set of learning methods for robotics, with a particular focus on progressive optimization methods for robot behavior |
 | [Airplanes Paths AI-Driven Decision Making](https://github.com/Achraf99Jday/Airplanes-path-management) | Modeling, optimization, graphs, linear programming |
