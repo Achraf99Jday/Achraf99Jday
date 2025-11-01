@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 FYI I haven't updated my Github since 2022, all these projects are before or during that year :)
 Watch my intro video: https://www.youtube.com/watch?v=TYtB38fp2AE
  [<img src="assets/suinterview.png" alt="suinterview" style="width: 640px;"/>](https://www.youtube.com/watch?v=TYtB38fp2AE)
 
